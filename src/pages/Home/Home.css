@@ -1,0 +1,13 @@
+.article-top4browser {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 1rem;
+}
+
+main.home-main {
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  margin-left: 12rem;
+}
